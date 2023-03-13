@@ -1,0 +1,166 @@
+.heading_1 h1{
+        text-align: center;
+        font-style: normal;
+        font-size: 58px;
+        line-height: 56.75px;
+        font-family: 'montserrat-bold';
+        color: #fff;
+        padding: 0 40px;
+}
+.heading_1 p{
+text-align: center;
+font-style: normal;
+font-size: 21px;
+font-family: 'montserrat-light';
+color: #fff;
+padding-top: 5px !important;
+}
+#main-content .container{
+    padding-top: 0 !important;
+}
+
+.banner2_home {
+    box-shadow: 0px 3px 3px 0px;
+    padding-left: 101px;
+    padding-right: 101px;
+    padding-top: 56px;
+    padding-bottom: 55px;
+    margin-top: -150px;
+    background-color: white;
+}
+.form_booking h2 {
+    text-align: center;
+    font-family: 'montserrat-medium';
+    font-size: 54px;
+    color: #180D5B;
+    font-weight: 800;
+    margin-top: -34px;
+    margin-bottom: 10px;
+}
+.form_booking p {
+    color: grey;
+    line-height: 1.6em;
+    font-size: 24px;
+    font-family: 'poppins-light';
+    margin-bottom: 10px;
+    text-align: center;
+}
+form.homePageForm select {
+    padding: 10px;
+    resize: none;
+    /* background-color: #8080801c; */
+    border: none;
+    font-size: 16px;
+    font-family: 'poppins-light';
+    color: grey;
+    border-radius: 10px;
+    margin-right: 12px;
+    border: 1px solid #180D5B;
+}
+form.homePageForm input {
+    margin-left: 50px;
+    padding: 10px;
+    resize: none;
+    /* background-color: #8080801c; */
+    border: none;
+    font-size: 16px;
+    font-family: 'poppins-light';
+    color: #180D5B;
+    border-radius: 10px;
+    border: 1px solid #180D5B;
+    margin-right: -6px;
+    margin-top: 17px;
+}
+form.homePageForm input.available {
+    background-color: orange;
+    color: white;
+    border: 2px solid orange;
+}
+.Resort_heading h1 {
+    text-align: center;
+    font-family: 'montserrat-bold';
+    font-size: 50px;
+    color: #180D5B;
+    font-weight: 800;
+    margin-top: -84px;
+}
+.hl-1 {
+    width: 80px;
+    height: 1px;
+    display: inline-block;
+    background: #010517;
+}
+.hl-2 {
+    display: inline-block;
+    height: 12px;
+    margin: 0 5px;
+    position: relative;
+    top: 5px;
+    width: 12px;
+    border: 1px solid #010517;
+    border-radius: 50px;
+    background: #ffffff;
+}
+.hl-3 {
+    width: 80px;
+    height: 1px;
+    display: inline-block;
+    background: #010517;
+}
+.head-title {
+    text-align: center;
+    margin-top: -79px;
+}
+.second_working_p p {
+    text-align: center;
+    line-height: 1.9em;
+    margin-top: -84px;
+    font-size: 17px;
+}
+.img_banner img {
+    margin-left: 58px;
+}
+.count_resort {
+    border-radius: 10px;
+    background-image: url(../index.img/mauritious.index.jpeg);
+    padding-left: 30px;
+    padding-right: 37px;
+    padding-top: 200px;
+    padding-bottom: 30px;
+    height: 401px;
+    margin: 10px;
+    overflow: hidden;
+    display: flex;
+    width: 350px;
+    align-items: end;
+    background-size: cover;
+    background-position: center;
+}
+.imgeee img {
+    border-radius: 5px;
+}
+.heading_inside_banner h2 {
+    color: white;
+    font-size: 53px;
+    font-family: 'montserrat-medium';
+    text-align: center;
+    font-weight: 800;
+}
+.heading_inside_banner p{
+color: white;
+    font-size: 20px;
+    font-family: 'poppins-light';
+    text-align: center;
+}
+.top_1 h2 {
+    color: white;
+    font-size: 22px;
+}
+.top_1 p {
+    color: white;
+}
+.et_pb_image img {
+    position: relative;
+    margin-left: 82px;
+    margin-top: -23px;
+}
